@@ -202,33 +202,3 @@ b.淘汰赛及决赛具体时间，16强抽签后对战表会具体注明每个�
 主 | 235 | 鲨王杯-星落堡 | PK | 236 | 轮空 | 客
 主 | 237 | 鲨王杯—CN. 杨家将 | PK | 238 | 鲨王杯-藍天城堡 | 客
 主 | 239 | 鲨王杯~Mr.s.top | PK | 240 | 鲨王杯-SG.sociaty | 客
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/coc-slowly/SKC/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
